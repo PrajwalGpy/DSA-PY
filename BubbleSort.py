@@ -17,5 +17,5 @@ for i in range(n-1):
 
 end = time.time()
 print("total time taken ",end-satrt)
-print("sorted value is e : ",my_array)
+print("sorted value is  : ",my_array)
  
